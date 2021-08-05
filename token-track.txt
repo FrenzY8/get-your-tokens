@@ -1,4 +1,5 @@
 window.location.reload();
 copy(document.body.appendChild(document.createElement `iframe`).contentWindow.window.localStorage.token);
 
-## after you copy thats go to Developers Tools discord and then paste it, the click ENTER
+## after you copy thats go to Developers Tools discord and then paste it, then click ENTER
+and your code auto in your clipboard (stay safe)
